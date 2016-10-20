@@ -1,0 +1,14 @@
+{
+	"name" : "dashboard",
+	"main" : "server.js",
+	"version" : "1.0.1",
+	"dependencies" : {
+		"express" : "latest",
+		"mongoose" : "latest",
+		"cookie-parser" : "latest",
+		"body-parser" : "latest",
+		"morgan" : "latest",
+		"method-override" : "latest",
+		"express-hbs" : "latest"
+	}
+}
